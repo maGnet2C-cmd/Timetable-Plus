@@ -1,0 +1,48 @@
+<resources>
+    <!-- Reply Preference -->
+    <string-array name="reply_entries">
+        <item>Reply</item>
+        <item>Reply to all</item>
+    </string-array>
+
+    <string-array name="reply_values">
+        <item>reply</item>
+        <item>reply_all</item>
+    </string-array>
+
+    <string-array name="building">
+        <item>FB</item>
+        <item>CB</item>
+        <item>SA</item>
+        <item>SB</item>
+        <item>SC</item>
+        <item>SD</item>
+        <item>PB</item>
+        <item>MA</item>
+        <item>MB</item>
+        <item>EB</item>
+        <item>EE</item>
+        <item>IR</item>
+        <item>IA</item>
+        <item>HS</item>
+        <item>IBSS</item>
+        <item>ES</item>
+        <item>DB</item>
+        <item>AS</item>
+    </string-array>
+
+    <string-array name="week">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+    </string-array>
+
+    <string-array name="ddlRmd">
+        <item>1</item>
+        <item>3</item>
+        <item>5</item>
+        <item>7</item>
+    </string-array>
+</resources>

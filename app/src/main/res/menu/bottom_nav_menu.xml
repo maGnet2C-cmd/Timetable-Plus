@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_deadline"
+        android:title="Deadlines" />
+
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@drawable/ic_map"
+        android:title="Timetable Map" />
+
+    <item
+        android:id="@+id/navigation_mapList"
+        android:icon="@drawable/list_button"
+        android:title="Timetable List" />
+
+    <item
+        android:id="@+id/navigation_notifications"
+        android:icon="@drawable/ic_history"
+        android:title="History" />
+
+
+
+</menu>
